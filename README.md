@@ -1,3 +1,2 @@
-Codewars katas solutions
-\"n
+Codewars katas solutions\
 Mostly using PHP
