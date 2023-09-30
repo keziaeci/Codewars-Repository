@@ -1,3 +1,3 @@
-Codewars katas solutions
-/n
-Mostly using PHP
+Codewars katas solutions\
+Mostly using PHP <br>
+im a beginner, pls be nice!
