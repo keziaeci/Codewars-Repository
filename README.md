@@ -1,3 +1,3 @@
 Codewars katas solutions
-/n
+\n
 Mostly using PHP
